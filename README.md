@@ -14,7 +14,7 @@ view columns I and J. You may notice that the data in these columns look like da
 ## Results
 
 #### The tickerIndex is set equal to zero before looping over the rows. 
-
+![1](https://user-images.githubusercontent.com/38533045/126405518-d9eca1e7-f799-4201-980e-25147990ed4b.JPG)
 
 Arrays are created for tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices 
 The tickerIndex is used to access the stock ticker index for the tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices arrays 
