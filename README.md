@@ -45,9 +45,13 @@ Management doesn't care about maintainability and extension of code base.
 Code should not be refactored on below cases:
 
 Delivery Deadline is near and new development is planned.
+
 The cost of refactoring is higher than rewriting the code from scratch.
+
 Don't refactor the code if you don't have the time to test the refactored code before release. It can introduce bugs. 
+
 Don't do delayed refactoring because it contains a big mess and makes it very difficult to refactor. Do early refactoring.
+
 Stable code should not be refactored.
 
 #### What are the Goals of Code Refactoring?
