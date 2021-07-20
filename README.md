@@ -22,9 +22,8 @@ view columns I and J. You may notice that the data in these columns look like da
 #### The tickerIndex is used to access the stock ticker index for the tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices arrays.
 ![3](https://user-images.githubusercontent.com/38533045/126406162-cf9b3fed-a32f-4af6-b41e-3dcbb40d5007.JPG)
 
-
 #### The script loops through stock data, reading and storing all of the following values from each row: tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices.
-
+![4](https://user-images.githubusercontent.com/38533045/126406201-906114c8-a55b-4eae-a848-cee43cc1d83e.JPG)
 
 #### Code for formatting the cells in the spreadsheet is working.
 
