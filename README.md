@@ -14,14 +14,7 @@ view columns I and J. You may notice that the data in these columns look like da
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-- What can you conclude about the Outcomes based on Goals?
-
-- What are some limitations of this dataset?
-including more data will make our analysis even more detailed and thus generate additional insight.
-
-- What are some other possible tables and/or graphs that we could create?
 
 
 ## Summary
