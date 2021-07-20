@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-In this project and analyisis, we’ll refactor the Stock Market Dataset with VBA solution code to loop through all the data one time. We’ll determine whether refactoring your code successfully made the VBA script run faster.
+In this project and analyisis, we’ll refactor the Stock Market Dataset with VBA solution code to loop through all the data one time. We’ll determine whether refactoring the code successfully made the VBA script run faster.
 
 Refactoring is a key part of the coding process. When refactoring code, we are not adding new functionality; we want to make the code more efficient—by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read.
 
