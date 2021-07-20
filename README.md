@@ -28,9 +28,7 @@ view columns I and J. You may notice that the data in these columns look like da
 
 #### The outputs for the 2017 and 2018 stock analyses in the VBA_Challenge.xlsm workbook match the outputs from the AllStockAnalysis in the module.
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/38533045/126406792-3d1d8444-a30c-4d77-acd3-0654c0c10936.png)
-
-
-#### The pop-up messages showing the elapsed run time for the script are saved as VBA_Challenge_2017.png and VBA_Challenge_2018.png 
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/38533045/126406853-4951a6e7-febc-4f01-86df-3ad5e47571e4.png)
 
 
 ## Summary
