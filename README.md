@@ -25,11 +25,6 @@ view columns I and J. You may notice that the data in these columns look like da
 #### The script loops through stock data, reading and storing all of the following values from each row: tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices.
 ![4](https://user-images.githubusercontent.com/38533045/126406302-2e7b3faf-7c18-4456-8f73-0390299021be.JPG)
 
-#### Code for formatting the cells in the spreadsheet is working.
-
-
-#### There are comments to explain the purpose of the code.
-
 
 #### The outputs for the 2017 and 2018 stock analyses in the VBA_Challenge.xlsm workbook match the outputs from the AllStockAnalysis in the module.
 
