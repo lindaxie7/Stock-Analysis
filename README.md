@@ -20,7 +20,7 @@ view columns I and J. You may notice that the data in these columns look like da
 ![2](https://user-images.githubusercontent.com/38533045/126405762-3a8aa223-5716-48ff-b184-a5fa94648fd0.JPG)
 
 #### The tickerIndex is used to access the stock ticker index for the tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices arrays.
-![3](https://user-images.githubusercontent.com/38533045/126406162-cf9b3fed-a32f-4af6-b41e-3dcbb40d5007.JPG)
+![3](https://user-images.githubusercontent.com/38533045/126406702-fd64dc2a-0c74-4888-8b42-71b4aa6f38aa.JPG)
 
 #### The script loops through stock data, reading and storing all of the following values from each row: tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices.
 ![4](https://user-images.githubusercontent.com/38533045/126406302-2e7b3faf-7c18-4456-8f73-0390299021be.JPG)
