@@ -16,13 +16,26 @@ view columns I and J. You may notice that the data in these columns look like da
 #### The tickerIndex is set equal to zero before looping over the rows. 
 ![1](https://user-images.githubusercontent.com/38533045/126405518-d9eca1e7-f799-4201-980e-25147990ed4b.JPG)
 
-Arrays are created for tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices 
-The tickerIndex is used to access the stock ticker index for the tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices arrays 
-The script loops through stock data, reading and storing all of the following values from each row: tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices
-Code for formatting the cells in the spreadsheet is working 
-There are comments to explain the purpose of the code 
-The outputs for the 2017 and 2018 stock analyses in the VBA_Challenge.xlsm workbook match the outputs from the AllStockAnalysis in the module
-The pop-up messages showing the elapsed run time for the script are saved as VBA_Challenge_2017.png and VBA_Challenge_2018.png 
+#### Arrays are created for tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices.
+
+
+#### The tickerIndex is used to access the stock ticker index for the tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices arrays.
+
+
+
+#### The script loops through stock data, reading and storing all of the following values from each row: tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices.
+
+
+#### Code for formatting the cells in the spreadsheet is working.
+
+
+#### There are comments to explain the purpose of the code.
+
+
+#### The outputs for the 2017 and 2018 stock analyses in the VBA_Challenge.xlsm workbook match the outputs from the AllStockAnalysis in the module.
+
+
+#### The pop-up messages showing the elapsed run time for the script are saved as VBA_Challenge_2017.png and VBA_Challenge_2018.png 
 
 
 ## Summary
