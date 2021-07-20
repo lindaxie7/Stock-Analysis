@@ -43,12 +43,16 @@ Management doesn't care about maintainability and extension of code base.
 ### How do these pros and cons apply to refactoring the original VBA script?
 #### When Code Should not be Refactored?
 Code should not be refactored on below cases:
+
 Delivery Deadline is near and new development is planned.
 The cost of refactoring is higher than rewriting the code from scratch.
 Don't refactor the code if you don't have the time to test the refactored code before release. It can introduce bugs. 
 Don't do delayed refactoring because it contains a big mess and makes it very difficult to refactor. Do early refactoring.
 Stable code should not be refactored.
+
 #### What are the Goals of Code Refactoring?
 Code Refactoring has the below goals:
+
 Maintainability - The main goal of code refactoring is to make it easy to enhance and maintain in the future. It should not violate Open Close Principle.
+
 Removing Bad Smell - Bad code smell motivates the refactoring of code. It prevents many future defects. Code Size is reduced. Confused coding is properly restructured.
