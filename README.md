@@ -31,9 +31,13 @@ Refactoring is a key part of the coding process. When refactoring code, we are n
 ### What are the advantages or disadvantages of refactoring code?
 #### Advantages
 Refactoring improves the Design of Existing Code - Martin Fowler.
+
 In Traditional Engineering, design puts 15% of total effort but design puts 90% effort into Software Engineering.
+
 Design helps to make the code good and maintainable.
+
 Design makes code easily understandable because code is loosely coupled, restructured, and duplicate code is eliminated.
+
 #### Disadvantages
 It is expensive and risky in the view of management.
 It may introduce bugs.
